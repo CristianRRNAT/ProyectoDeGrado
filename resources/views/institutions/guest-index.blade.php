@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Instituciones de Bolivia | OrientaBo</title>
+    <meta name="description" content="Conoce las instituciones educativas disponibles en Bolivia.">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="{{ asset('css/home.css') }}"><link rel="stylesheet" href="{{ asset('css/institutions-guest.css') }}"><link rel="stylesheet" href="{{ asset('css/institution-register-invite.css') }}?v=1">
+</head>
+<body>
+<link rel='stylesheet' href='/css/institution-hero-image.css'>
+<header class="topbar"><div class="container nav-wrap"><a href="{{ route('home') }}" class="logo"><span class="logo-icon">⌁</span><span>Orienta<b>Bolivia</b></span></a><nav class="guest-nav"><a href="{{ route('home') }}">Inicio</a><a href="{{ route('test.basic') }}">Test vocacional</a><a href="{{ route('careers.index') }}">Carreras</a><a class="active" href="{{ route('institutions.index') }}">Instituciones</a><a href="{{ route('login') }}">Oportunidades</a></nav><div class="nav-actions"><x-account-actions /></div></div></header>
+<main>
+    <section class="guest-hero"><div class="container"><span>DIRECTORIO ACADÉMICO</span><h1>Conoce las instituciones<br>que puedes encontrar en Bolivia.</h1><p>Explora sus nombres y departamentos. Crea una cuenta gratuita para consultar carreras, horarios, costos, páginas oficiales y ubicaciones en el mapa.</p><form method="get" action="{{ route('institutions.index') }}"><label><i class="bi bi-search"></i><input name="q" value="{{ $filters['q'] ?? '' }}" placeholder="Ingresa la institución"></label><select name="department"><option value="">Todos los departamentos</option>@foreach($departments as $department)<option value="{{ $department->slug }}" @selected(($filters['department'] ?? '')===$department->slug)>{{ $department->name }}</option>@endforeach</select><button>Buscar</button></form></div></section>
+    <section class="guest-results"><div class="container"><div class="guest-heading"><div><strong>{{ $institutions->total() }}</strong><span>instituciones disponibles</span></div>@include('institutions.partials.directory-map-modal')@if(($filters['q'] ?? null)||($filters['department'] ?? null))<a href="{{ route('institutions.index') }}">Limpiar búsqueda</a>@endif</div>
+        @if($institutions->isEmpty())<div class="guest-empty"><h2>No encontramos instituciones</h2><p>Prueba con otro nombre o departamento.</p></div>@else<div class="guest-grid">@foreach($institutions as $item)@php($locationCount = 1 + count($item->campuses ?? []))<article><span>{{ $item->acronym ?: Str::upper(Str::substr($item->name,0,2)) }}</span><div><h2>{{ $item->name }}</h2><small><i class="bi bi-geo-alt"></i> {{ $locationCount > 1 ? 'Total de sedes: '.$locationCount : $item->department->name }}</small></div></article>@endforeach</div>
+        <nav class="guest-pagination">@if($institutions->previousPageUrl())<a href="{{ $institutions->previousPageUrl() }}">← Anterior</a>@else<span>← Anterior</span>@endif<strong>Página {{ $institutions->currentPage() }} de {{ $institutions->lastPage() }}</strong>@if($institutions->nextPageUrl())<a href="{{ $institutions->nextPageUrl() }}">Siguiente →</a>@else<span>Siguiente →</span>@endif</nav>@endif
+    </div></section>
+    <section class="register-invite"><div class="container"><div class="invite-icon" aria-hidden="true"><svg viewBox="0 0 72 72" fill="none"><rect x="10" y="15" width="52" height="43" rx="8" fill="#E4F6EF"/><circle cx="31" cy="31" r="8" fill="#20B486"/><path d="M18 51c1.6-7 6.2-11 13-11s11.4 4 13 11" fill="#092E26"/><path d="M49 25v14M42 32h14" stroke="#092E26" stroke-width="4" stroke-linecap="round"/><path d="M22 12h28" stroke="#54D2AA" stroke-width="4" stroke-linecap="round"/></svg></div><div><span>DESBLOQUEA TODA LA INFORMACIÓN</span><h2>¿Quieres conocer sus carreras, horarios y ubicación exacta?</h2><p>Regístrate gratis para comparar instituciones, revisar todos sus programas y abrir sus ubicaciones en Google Maps.</p></div><div class="invite-actions"><a class="primary" href="{{ route('login') }}">Registrarse <i class="bi bi-arrow-right"></i></a></div></div></section>
+</main>@include('institutions.partials.directory-map-dialog')
+<footer class="site-footer"><div class="container"><a href="{{ route('home') }}" class="logo"><span class="logo-icon">⌁</span><span>Orienta<b>Bolivia</b></span></a><p>Información para elegir tu futuro académico con confianza.</p><small>© {{ date('Y') }} OrientaBo</small></div></footer>
+<script src={{ asset('js/institution-images.js') }}></script>
+</body></html>

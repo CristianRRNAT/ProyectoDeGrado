@@ -1,0 +1,205 @@
+[
+    {
+        "name":  "Enfermería",
+        "source_slug":  "enfermeria-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Enfermería"
+    },
+    {
+        "name":  "Ingeniería Ambiental",
+        "source_slug":  "ingenieria-ambiental-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería Ambiental"
+    },
+    {
+        "name":  "Ingeniería Comercial",
+        "source_slug":  "ingenieria-comercial-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería Comercial"
+    },
+    {
+        "name":  "Turismo",
+        "source_slug":  "turismo-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Turismo"
+    },
+    {
+        "name":  "Fisioterapia y Kinesiología",
+        "source_slug":  "fisioterapia-kinesiologia-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Fisioterapia y Kinesiología"
+    },
+    {
+        "name":  "Ingeniería de Telecomunicaciones",
+        "source_slug":  "ingenieria-telecomunicaciones-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería de Telecomunicaciones"
+    },
+    {
+        "name":  "Auditoría",
+        "source_slug":  "auditoria-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Auditoría"
+    },
+    {
+        "name":  "Comunicación",
+        "source_slug":  "comunicacion-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Comunicación Social"
+    },
+    {
+        "name":  "Medicina",
+        "source_slug":  "medicina-lp",
+        "department_slug":  "la-paz",
+        "duration":  "6 años (12 semestres) + Internado",
+        "degree_title":  "Médico Cirujano"
+    },
+    {
+        "name":  "Liderazgo Pastoral",
+        "source_slug":  "liderazgo-pastoral-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Liderazgo Pastoral"
+    },
+    {
+        "name":  "Derecho",
+        "source_slug":  "derecho-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Derecho"
+    },
+    {
+        "name":  "Odontología",
+        "source_slug":  "odontologia-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Odontología"
+    },
+    {
+        "name":  "Arquitectura",
+        "source_slug":  "arquitectura-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Arquitectura"
+    },
+    {
+        "name":  "Marketing y Publicidad",
+        "source_slug":  "marketing-publicidad-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Marketing y Publicidad"
+    },
+    {
+        "name":  "Ingeniería en Gas y Petróleo",
+        "source_slug":  "ingenieria-gas-petroleo-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería en Gas y Petróleo"
+    },
+    {
+        "name":  "Psicología",
+        "source_slug":  "psicologia-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Psicología"
+    },
+    {
+        "name":  "Ingeniería de Sistemas",
+        "source_slug":  "ingenieria-sistemas-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería de Sistemas"
+    },
+    {
+        "name":  "Administración de Empresas",
+        "source_slug":  "administracion-empresas-lp",
+        "department_slug":  "la-paz",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Administración de Empresas"
+    },
+    {
+        "name":  "Bioquímica y Farmacia",
+        "source_slug":  "bioquimica-farmacia-lp",
+        "department_slug":  "la-paz",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Bioquímica y Farmacia"
+    },
+    {
+        "name":  "Psicología",
+        "source_slug":  "psicologia-oruro",
+        "department_slug":  "oruro",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Psicología"
+    },
+    {
+        "name":  "Ingeniería de Telecomunicaciones",
+        "source_slug":  "ingenieria-telecomunicaciones-oruro",
+        "department_slug":  "oruro",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería de Telecomunicaciones"
+    },
+    {
+        "name":  "Ingeniería de Sistemas",
+        "source_slug":  "ingenieria-sistemas-oruro",
+        "department_slug":  "oruro",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería de Sistemas"
+    },
+    {
+        "name":  "Ingeniería en Gas y Petróleo",
+        "source_slug":  "ingenieria-gas-petroleo-oruro",
+        "department_slug":  "oruro",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería en Gas y Petróleo"
+    },
+    {
+        "name":  "Odontología",
+        "source_slug":  "odontologia-oruro",
+        "department_slug":  "oruro",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Odontología"
+    },
+    {
+        "name":  "Medicina",
+        "source_slug":  "medicina-oruro",
+        "department_slug":  "oruro",
+        "duration":  "6 años (12 semestres) + Internado",
+        "degree_title":  "Médico Cirujano"
+    },
+    {
+        "name":  "Fisioterapia y Kinesiología",
+        "source_slug":  "fisioterapia-kinesiologia-oruro",
+        "department_slug":  "oruro",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Fisioterapia y Kinesiología"
+    },
+    {
+        "name":  "Derecho",
+        "source_slug":  "derecho-oruro",
+        "department_slug":  "oruro",
+        "duration":  "5 años (10 semestres)",
+        "degree_title":  "Licenciatura en Derecho"
+    },
+    {
+        "name":  "Administración de Empresas",
+        "source_slug":  "administracion-empresas-oruro",
+        "department_slug":  "oruro",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Administración de Empresas"
+    },
+    {
+        "name":  "Ingeniería Comercial",
+        "source_slug":  "ingenieria-comercial-oruro",
+        "department_slug":  "oruro",
+        "duration":  "4 años (8 semestres)",
+        "degree_title":  "Licenciatura en Ingeniería Comercial"
+    }
+]

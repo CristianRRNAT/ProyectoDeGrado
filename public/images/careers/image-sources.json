@@ -1,0 +1,862 @@
+{
+    "actividad-fisica-y-del-deporte": {
+        "career": "Actividad Física y del Deporte",
+        "file": "actividad-fisica-y-del-deporte.jpg",
+        "source": "https://www.pexels.com/photo/pull-ups-competition-at-gym-16966370/",
+        "photographer": "Ardit Mbrati",
+        "photographer_url": "https://www.pexels.com/@ardit-mbrati-216809103",
+        "provider": "Pexels"
+    },
+    "formacion-deportiva-y-deporte-competitivo": {
+        "career": "Formación Deportiva y Deporte Competitivo",
+        "file": "formacion-deportiva-y-deporte-competitivo.jpg",
+        "source": "https://www.pexels.com/photo/person-standing-on-a-cube-4164658/",
+        "photographer": "Ivan S",
+        "photographer_url": "https://www.pexels.com/@ivan-s",
+        "provider": "Pexels"
+    },
+    "acuicultura": {
+        "career": "Acuicultura",
+        "file": "acuicultura.jpg",
+        "source": "https://www.pexels.com/photo/birdcages-in-the-sea-10436676/",
+        "photographer": "Jimmy Ramírez",
+        "photographer_url": "https://www.pexels.com/@jimmy",
+        "provider": "Pexels"
+    },
+    "ingenieria-en-acuicultura-comunitaria-y-gestion-de-agua": {
+        "career": "Ingeniería en Acuicultura Comunitaria y Gestión de Agua",
+        "file": "ingenieria-en-acuicultura-comunitaria-y-gestion-de-agua.jpg",
+        "source": "https://www.pexels.com/photo/a-large-group-of-fish-swimming-in-a-tank-15059730/",
+        "photographer": "Collab Media",
+        "photographer_url": "https://www.pexels.com/@collab-media-173741945",
+        "provider": "Pexels"
+    },
+    "piscicultura": {
+        "career": "Piscicultura",
+        "file": "piscicultura.jpg",
+        "source": "https://www.pexels.com/photo/an-aerial-shot-of-an-aquaculture-farm-14993421/",
+        "photographer": "DeLuca G",
+        "photographer_url": "https://www.pexels.com/@deluca-g-412104326",
+        "provider": "Pexels"
+    },
+    "administracion-de-empresas": {
+        "career": "Administración de Empresas",
+        "file": "administracion-de-empresas.jpg",
+        "source": "https://www.pexels.com/photo/university-students-conversing-on-marble-staircase-37762528/",
+        "photographer": "Gera Cejas",
+        "photographer_url": "https://www.pexels.com/@gera-cejas-3616330",
+        "provider": "Pexels"
+    },
+    "administracion-de-hoteleria-y-turismo": {
+        "career": "Administración de Hotelería y Turismo",
+        "file": "administracion-de-hoteleria-y-turismo.png",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "administracion-y-direccion-de-empresas": {
+        "career": "Administración y Dirección de Empresas",
+        "file": "administracion-y-direccion-de-empresas.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "comercio-internacional": {
+        "career": "Comercio Internacional",
+        "file": "comercio-internacional.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "economia": {
+        "career": "Economía",
+        "file": "economia.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "economia-comunitaria-productiva": {
+        "career": "Economía Comunitaria Productiva",
+        "file": "economia-comunitaria-productiva.jpg",
+        "source": "https://www.pexels.com/photo/fashion-man-person-working-6326282/",
+        "photographer": "Vanessa Garcia",
+        "photographer_url": "https://www.pexels.com/@vanessa-garcia",
+        "provider": "Pexels"
+    },
+    "ingenieria-comercial": {
+        "career": "Ingeniería Comercial",
+        "file": "ingenieria-comercial.jpg",
+        "source": "https://www.pexels.com/photo/three-woman-in-front-of-laptop-computer-1181233/",
+        "photographer": "Christina Morillo",
+        "photographer_url": "https://www.pexels.com/@divinetechygirl",
+        "provider": "Pexels"
+    },
+    "ingenieria-financiera": {
+        "career": "Ingeniería Financiera",
+        "file": "ingenieria-financiera.jpg",
+        "source": "https://www.pexels.com/photo/colleagues-sitting-with-laptop-and-working-16420340/",
+        "photographer": "Ludovic Delot",
+        "photographer_url": "https://www.pexels.com/@delot",
+        "provider": "Pexels"
+    },
+    "administracion-rural": {
+        "career": "Administración Rural",
+        "file": "administracion-rural.jpg",
+        "source": "https://www.pexels.com/photo/group-of-students-reading-outdoors-34526421/",
+        "photographer": "mickael ange konan",
+        "photographer_url": "https://www.pexels.com/@mickael-ange-konan-2156070331",
+        "provider": "Pexels"
+    },
+    "agroecologia": {
+        "career": "Agroecología",
+        "file": "agroecologia.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "ingenieria-agronomica": {
+        "career": "Ingeniería Agronómica",
+        "file": "ingenieria-agronomica.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "ingenieria-agropecuaria": {
+        "career": "Ingeniería Agropecuaria",
+        "file": "ingenieria-agropecuaria.jpg",
+        "source": "https://www.pexels.com/photo/group-of-students-studying-outdoors-at-school-34526424/",
+        "photographer": "mickael ange konan",
+        "photographer_url": "https://www.pexels.com/@mickael-ange-konan-2156070331",
+        "provider": "Pexels"
+    },
+    "agroindustria": {
+        "career": "Agroindustria",
+        "file": "agroindustria.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "industria-de-alimentos": {
+        "career": "Industria de Alimentos",
+        "file": "industria-de-alimentos.jpg",
+        "source": "https://www.pexels.com/photo/person-in-protective-suit-in-laboratory-5953827/",
+        "photographer": "Anna Shvets",
+        "photographer_url": "https://www.pexels.com/@shvetsa",
+        "provider": "Pexels"
+    },
+    "ingenieria-agroindustrial": {
+        "career": "Ingeniería Agroindustrial",
+        "file": "ingenieria-agroindustrial.jpg",
+        "source": "https://www.pexels.com/photo/glassware-with-colorful-liquid-substances-on-a-lab-desk-8540819/",
+        "photographer": "https://kaboompics.com/",
+        "photographer_url": "https://www.pexels.com/@karola-g",
+        "provider": "Pexels"
+    },
+    "ingenieria-de-alimentos": {
+        "career": "Ingeniería de Alimentos",
+        "file": "ingenieria-de-alimentos.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "ingenieria-en-transformacion-de-alimentos": {
+        "career": "Ingeniería en Transformación de Alimentos",
+        "file": "ingenieria-en-transformacion-de-alimentos.jpg",
+        "source": "https://www.pexels.com/photo/liquid-in-flask-on-table-18692575/",
+        "photographer": "Mehul Patel",
+        "photographer_url": "https://www.pexels.com/@mehul-patel-829985",
+        "provider": "Pexels"
+    },
+    "antropologia-y-arqueologia": {
+        "career": "Antropología y Arqueología",
+        "file": "antropologia-y-arqueologia.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "arquitectura": {
+        "career": "Arquitectura",
+        "file": "arquitectura.jpg",
+        "source": "https://www.pexels.com/photo/university-students-in-historic-buenos-aires-campus-37762503/",
+        "photographer": "Gera Cejas",
+        "photographer_url": "https://www.pexels.com/@gera-cejas-3616330",
+        "provider": "Pexels"
+    },
+    "artes-plasticas-y-visuales": {
+        "career": "Artes Plásticas y Visuales",
+        "file": "artes-plasticas-y-visuales.jpg",
+        "source": "https://www.pexels.com/photo/kids-doing-painting-on-canvas-in-tripod-8382258/",
+        "photographer": "Pavel Danilyuk",
+        "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
+        "provider": "Pexels"
+    },
+    "automatizacion-industrial": {
+        "career": "Automatización Industrial",
+        "file": "automatizacion-industrial.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "electromecanica-industrial": {
+        "career": "Electromecánica Industrial",
+        "file": "electromecanica-industrial.jpg",
+        "source": "https://www.pexels.com/photo/close-up-of-steel-in-workshop-4116294/",
+        "photographer": "Jose Ricardo Barraza Morachis",
+        "photographer_url": "https://www.pexels.com/@lumierestudiomx",
+        "provider": "Pexels"
+    },
+    "ingenieria-electromecanica": {
+        "career": "Ingeniería Electromecánica",
+        "file": "ingenieria-electromecanica.jpg",
+        "source": "https://www.pexels.com/photo/equipment-at-auto-repair-14637831/",
+        "photographer": "Ayub Abdul Rahman",
+        "photographer_url": "https://www.pexels.com/@ayub-abdul-rahman-381011600",
+        "provider": "Pexels"
+    },
+    "ingenieria-mecanica": {
+        "career": "Ingeniería Mecánica",
+        "file": "ingenieria-mecanica.jpg",
+        "source": "https://www.pexels.com/photo/industrial-workshop-interior-5506047/",
+        "photographer": "Mike van Schoonderwalt",
+        "photographer_url": "https://www.pexels.com/@mike-van-schoonderwalt-1884800",
+        "provider": "Pexels"
+    },
+    "ingenieria-mecatronica": {
+        "career": "Ingeniería Mecatrónica",
+        "file": "ingenieria-mecatronica.jpg",
+        "source": "https://www.pexels.com/photo/a-man-in-blue-coveralls-and-glove-near-an-engine-8986037/",
+        "photographer": "Artem Podrez",
+        "photographer_url": "https://www.pexels.com/@artempodrez",
+        "provider": "Pexels"
+    },
+    "mecanica-industrial": {
+        "career": "Mecánica Industrial",
+        "file": "mecanica-industrial.jpg",
+        "source": "https://www.pexels.com/photo/engine-parts-on-shelves-in-car-workshop-5506059/",
+        "photographer": "Mike van Schoonderwalt",
+        "photographer_url": "https://www.pexels.com/@mike-van-schoonderwalt-1884800",
+        "provider": "Pexels"
+    },
+    "belleza-integral": {
+        "career": "Belleza Integral",
+        "file": "belleza-integral.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "estilismo-y-belleza-integral": {
+        "career": "Estilismo y Belleza Integral",
+        "file": "estilismo-y-belleza-integral.jpg",
+        "source": "https://www.pexels.com/photo/a-hairdresser-working-on-a-client-7755176/",
+        "photographer": "RDNE Stock project",
+        "photographer_url": "https://www.pexels.com/@rdne",
+        "provider": "Pexels"
+    },
+    "biologia": {
+        "career": "Biología",
+        "file": "biologia.jpg",
+        "source": "https://www.pexels.com/photo/close-up-shot-of-a-scientist-using-a-microscope-4031654/",
+        "photographer": "Edward Jenner",
+        "photographer_url": "https://www.pexels.com/@edward-jenner",
+        "provider": "Pexels"
+    },
+    "bioquimica": {
+        "career": "Bioquímica",
+        "file": "bioquimica.jpg",
+        "source": "https://www.pexels.com/photo/doctor-using-a-centrifuge-machine-6627667/",
+        "photographer": "https://kaboompics.com/",
+        "photographer_url": "https://www.pexels.com/@karola-g",
+        "provider": "Pexels"
+    },
+    "laboratorio-clinico": {
+        "career": "Laboratorio Clínico",
+        "file": "laboratorio-clinico.jpg",
+        "source": "https://www.pexels.com/photo/laboratory-worker-using-modern-hospital-equipment-6627687/",
+        "photographer": "https://kaboompics.com/",
+        "photographer_url": "https://www.pexels.com/@karola-g",
+        "provider": "Pexels"
+    },
+    "canto-profesional": {
+        "career": "Canto Profesional",
+        "file": "canto-profesional.jpg",
+        "source": "https://www.pexels.com/photo/woman-and-boy-sitting-in-front-of-a-piano-8520416/",
+        "photographer": "Yan Krukau",
+        "photographer_url": "https://www.pexels.com/@yankrukov",
+        "provider": "Pexels"
+    },
+    "musica": {
+        "career": "Música",
+        "file": "musica.jpg",
+        "source": "https://www.pexels.com/photo/woman-and-child-studying-together-8191529/",
+        "photographer": "Yan Krukau",
+        "photographer_url": "https://www.pexels.com/@yankrukov",
+        "provider": "Pexels"
+    },
+    "carrera-militar-del-ejercito": {
+        "career": "Carrera Militar en las Fuerzas Armadas",
+        "file": "carrera-militar-del-ejercito.jpg",
+        "source": "https://www.pexels.com/photo/cadets-standing-in-formation-near-historic-building-37789888/",
+        "photographer": "Mico Medel",
+        "photographer_url": "https://www.pexels.com/@micomedel",
+        "provider": "Pexels"
+    },
+    "carrera-policial": {
+        "career": "Carrera Policial",
+        "file": "carrera-policial.jpg",
+        "source": "https://www.pexels.com/photo/police-training-with-german-shepherds-outdoors-30487150/",
+        "photographer": "maxed. RAW",
+        "photographer_url": "https://www.pexels.com/@maxed-raw-527582413",
+        "provider": "Pexels"
+    },
+    "ciencia-politica-y-gestion-publica": {
+        "career": "Ciencia Política y Gestión Pública",
+        "file": "ciencia-politica-y-gestion-publica.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "ciencias-de-la-educacion": {
+        "career": "Ciencias de la Educación",
+        "file": "ciencias-de-la-educacion.jpg",
+        "source": "https://www.pexels.com/photo/university-classroom-discussion-with-teacher-37795357/",
+        "photographer": "Eduard Perez",
+        "photographer_url": "https://www.pexels.com/@eduard-perez-2158828645",
+        "provider": "Pexels"
+    },
+    "educacion-parvularia": {
+        "career": "Educación Parvularia",
+        "file": "educacion-parvularia.jpg",
+        "source": "https://www.pexels.com/photo/a-woman-applying-hand-sanitizer-in-her-hand-5212648/",
+        "photographer": "Max Fischer",
+        "photographer_url": "https://www.pexels.com/@max-fischer",
+        "provider": "Pexels"
+    },
+    "formacion-de-maestros": {
+        "career": "Formación de Maestros",
+        "file": "formacion-de-maestros.jpg",
+        "source": "https://www.pexels.com/photo/teacher-teaching-his-students-5212342/",
+        "photographer": "Max Fischer",
+        "photographer_url": "https://www.pexels.com/@max-fischer",
+        "provider": "Pexels"
+    },
+    "parvularia": {
+        "career": "Parvularia",
+        "file": "parvularia.jpg",
+        "source": "https://www.pexels.com/photo/a-teacher-standing-in-front-of-her-students-8423008/",
+        "photographer": "Pavel Danilyuk",
+        "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
+        "provider": "Pexels"
+    },
+    "comunicacion-social": {
+        "career": "Comunicación Social",
+        "file": "comunicacion-social.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "construccion-civil": {
+        "career": "Construcción Civil",
+        "file": "construccion-civil.jpg",
+        "source": "https://www.pexels.com/photo/a-two-engineer-talking-together-8961073/",
+        "photographer": "Mikael Blomkvist",
+        "photographer_url": "https://www.pexels.com/@mikael-blomkvist",
+        "provider": "Pexels"
+    },
+    "contaduria-general": {
+        "career": "Contaduría General",
+        "file": "contaduria-general.jpg",
+        "source": "https://www.pexels.com/photo/woman-using-calculator-at-the-office-7654131/",
+        "photographer": "Pavel Danilyuk",
+        "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
+        "provider": "Pexels"
+    },
+    "contaduria-publica": {
+        "career": "Contaduría Pública",
+        "file": "contaduria-publica.jpg",
+        "source": "https://www.pexels.com/photo/woman-in-white-dress-shirt-using-calculator-near-office-window-8297051/",
+        "photographer": "Mikhail Nilov",
+        "photographer_url": "https://www.pexels.com/@mikhail-nilov",
+        "provider": "Pexels"
+    },
+    "creacion-de-contenido-digital": {
+        "career": "Creación de Contenido Digital",
+        "file": "creacion-de-contenido-digital.jpg",
+        "source": "https://www.pexels.com/photo/man-sitting-with-microphone-in-room-20040022/",
+        "photographer": "ahmed akeri",
+        "photographer_url": "https://www.pexels.com/@ahmed-akeri-801514718",
+        "provider": "Pexels"
+    },
+    "danza": {
+        "career": "Danza",
+        "file": "danza.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "danza-profesional": {
+        "career": "Danza Profesional",
+        "file": "danza-profesional.jpg",
+        "source": "https://www.pexels.com/photo/women-in-black-tops-doing-ballet-3902517/",
+        "photographer": "Anna Shvets",
+        "photographer_url": "https://www.pexels.com/@shvetsa",
+        "provider": "Pexels"
+    },
+    "derecho": {
+        "career": "Derecho",
+        "file": "derecho.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "diseno-de-interiores": {
+        "career": "Diseño de Interiores",
+        "file": "diseno-de-interiores.jpg",
+        "source": "https://www.pexels.com/photo/woman-in-white-long-sleeves-shirt-looking-at-drawings-on-a-corkboard-5393592/",
+        "photographer": "KATRIN  BOLOVTSOVA",
+        "photographer_url": "https://www.pexels.com/@ekaterina-bolovtsova",
+        "provider": "Pexels"
+    },
+    "diseno-grafico": {
+        "career": "Diseño Gráfico",
+        "file": "diseno-grafico.jpg",
+        "source": "https://www.pexels.com/photo/a-woman-working-at-the-computer-7675023/",
+        "photographer": "Pavel Danilyuk",
+        "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
+        "provider": "Pexels"
+    },
+    "diseno-y-creacion-de-moda": {
+        "career": "Diseño y Creación de Moda",
+        "file": "diseno-y-creacion-de-moda.jpg",
+        "source": "https://www.pexels.com/photo/a-team-of-fashion-designer-working-inside-the-office-9850411/",
+        "photographer": "Ron Lach",
+        "photographer_url": "https://www.pexels.com/@ron-lach",
+        "provider": "Pexels"
+    },
+    "industria-textil-y-confeccion": {
+        "career": "Industria Textil y Confección",
+        "file": "industria-textil-y-confeccion.jpg",
+        "source": "https://www.pexels.com/photo/standing-fashion-designer-working-with-fabrics-9849647/",
+        "photographer": "Ron Lach",
+        "photographer_url": "https://www.pexels.com/@ron-lach",
+        "provider": "Pexels"
+    },
+    "electricidad-industrial": {
+        "career": "Electricidad Industrial",
+        "file": "electricidad-industrial.jpg",
+        "source": "https://www.pexels.com/photo/female-technician-working-on-electrical-control-panel-34526423/",
+        "photographer": "mickael ange konan",
+        "photographer_url": "https://www.pexels.com/@mickael-ange-konan-2156070331",
+        "provider": "Pexels"
+    },
+    "electrotecnia-industrial": {
+        "career": "Electrotecnia Industrial",
+        "file": "electrotecnia-industrial.jpg",
+        "source": "https://www.pexels.com/photo/team-collaboration-in-modern-engineering-facility-35383624/",
+        "photographer": "Ruslan Alekso",
+        "photographer_url": "https://www.pexels.com/@oskelaq",
+        "provider": "Pexels"
+    },
+    "ingenieria-electrica": {
+        "career": "Ingeniería Eléctrica",
+        "file": "ingenieria-electrica.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "electronica": {
+        "career": "Electrónica",
+        "file": "electronica.jpg",
+        "source": "https://www.pexels.com/photo/computer-components-on-table-19895784/",
+        "photographer": "ThisIsEngineering",
+        "photographer_url": "https://www.pexels.com/@thisisengineering",
+        "provider": "Pexels"
+    },
+    "ingenieria-electronica": {
+        "career": "Ingeniería Electrónica",
+        "file": "ingenieria-electronica.jpg",
+        "source": "https://www.pexels.com/photo/technician-repairing-pcb-with-microscope-35157345/",
+        "photographer": "Multitech Institute",
+        "photographer_url": "https://www.pexels.com/@multitech-institute-2155038539",
+        "provider": "Pexels"
+    },
+    "enfermeria": {
+        "career": "Enfermería",
+        "file": "enfermeria.jpg",
+        "source": "https://www.pexels.com/photo/aspiring-nurse-students-in-laboratory-setting-32213307/",
+        "photographer": "Yusuf Çelik",
+        "photographer_url": "https://www.pexels.com/@zandatsu",
+        "provider": "Pexels"
+    },
+    "escritura-y-composicion-creativa": {
+        "career": "Escritura y Composición Creativa",
+        "file": "escritura-y-composicion-creativa.jpg",
+        "source": "https://www.pexels.com/photo/photo-of-person-holding-cup-3363111/",
+        "photographer": "Alina Vilchenko",
+        "photographer_url": "https://www.pexels.com/@monstera",
+        "provider": "Pexels"
+    },
+    "literatura": {
+        "career": "Literatura",
+        "file": "literatura.jpg",
+        "source": "https://www.pexels.com/photo/business-college-composition-desk-419635/",
+        "photographer": "ClickerHappy",
+        "photographer_url": "https://www.pexels.com/@clickerhappy",
+        "provider": "Pexels"
+    },
+    "filosofia": {
+        "career": "Filosofía",
+        "file": "filosofia.jpg",
+        "source": "https://www.pexels.com/photo/stack-of-classic-philosophy-books-on-a-desk-34923522/",
+        "photographer": "Calil Encarnación",
+        "photographer_url": "https://www.pexels.com/@calil-encarnacion-30667006",
+        "provider": "Pexels"
+    },
+    "fisica": {
+        "career": "Física",
+        "file": "fisica.jpg",
+        "source": "https://www.pexels.com/photo/woman-in-blue-sweater-looking-at-a-metal-object-6208711/",
+        "photographer": "cottonbro studio",
+        "photographer_url": "https://www.pexels.com/@cottonbro",
+        "provider": "Pexels"
+    },
+    "fisioterapia-y-kinesiologia": {
+        "career": "Fisioterapia y Kinesiología",
+        "file": "fisioterapia-y-kinesiologia.jpg",
+        "source": "https://www.pexels.com/photo/a-woman-guiding-a-man-on-his-physical-therapy-6111585/",
+        "photographer": "Kampus Production",
+        "photographer_url": "https://www.pexels.com/@kampus",
+        "provider": "Pexels"
+    },
+    "fonoaudiologia": {
+        "career": "Fonoaudiología",
+        "file": "fonoaudiologia.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "gastronomia": {
+        "career": "Gastronomía",
+        "file": "gastronomia.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "historia": {
+        "career": "Historia",
+        "file": "historia.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "industria-de-la-madera": {
+        "career": "Industria de la Madera",
+        "file": "industria-de-la-madera.jpg",
+        "source": "https://www.pexels.com/photo/a-person-in-white-long-sleeve-shirt-scraping-wood-plank-13005858/",
+        "photographer": "Brian Magill",
+        "photographer_url": "https://www.pexels.com/@brian-magill-157994702",
+        "provider": "Pexels"
+    },
+    "informatica-industrial": {
+        "career": "Informática Industrial",
+        "file": "informatica-industrial.jpg",
+        "source": "https://www.pexels.com/photo/male-engineer-wearing-protective-gear-at-work-32845660/",
+        "photographer": "Sergey Sergeev",
+        "photographer_url": "https://www.pexels.com/@sergey-sergeev-2153675005",
+        "provider": "Pexels"
+    },
+    "ingenieria-industrial": {
+        "career": "Ingeniería Industrial",
+        "file": "ingenieria-industrial.jpg",
+        "source": "https://www.pexels.com/photo/industrial-textile-worker-in-blue-uniform-documenting-production-31212947/",
+        "photographer": "EqualStock IN",
+        "photographer_url": "https://www.pexels.com/@equalstock",
+        "provider": "Pexels"
+    },
+    "ingenieria-agroforestal": {
+        "career": "Ingeniería Agroforestal",
+        "file": "ingenieria-agroforestal.jpg",
+        "source": "https://www.pexels.com/photo/close-up-of-tree-logs-lying-in-a-forest-20442681/",
+        "photographer": "Mahoney Fotos",
+        "photographer_url": "https://www.pexels.com/@mahoneyfotos",
+        "provider": "Pexels"
+    },
+    "ingenieria-en-agroforesteria-comunitaria-ecologica": {
+        "career": "Ingeniería en Agroforestería Comunitaria Ecológica",
+        "file": "ingenieria-en-agroforesteria-comunitaria-ecologica.jpg",
+        "source": "https://www.pexels.com/photo/logs-wood-wooden-logs-214031/",
+        "photographer": "Photo Collections",
+        "photographer_url": "https://www.pexels.com/@photocollections",
+        "provider": "Pexels"
+    },
+    "ingenieria-forestal": {
+        "career": "Ingeniería Forestal",
+        "file": "ingenieria-forestal.jpg",
+        "source": "https://www.pexels.com/photo/brown-and-beige-wood-logs-235309/",
+        "photographer": "Lum3n",
+        "photographer_url": "https://www.pexels.com/@lum3n-44775",
+        "provider": "Pexels"
+    },
+    "ingenieria-ambiental": {
+        "career": "Ingeniería Ambiental",
+        "file": "ingenieria-ambiental.jpg",
+        "source": "https://www.pexels.com/photo/women-botanist-doing-an-examination-8512658/",
+        "photographer": "Yaroslav Shuraev",
+        "photographer_url": "https://www.pexels.com/@yaroslav-shuraev",
+        "provider": "Pexels"
+    },
+    "ingenieria-de-petroleo-y-gas-natural": {
+        "career": "Ingeniería de Petróleo y Gas Natural",
+        "file": "ingenieria-de-petroleo-y-gas-natural.jpg",
+        "source": "https://www.pexels.com/photo/oil-refinery-plant-15970032/",
+        "photographer": "Jakub Pabis",
+        "photographer_url": "https://www.pexels.com/@jakub-pabis-147246622",
+        "provider": "Pexels"
+    },
+    "ingenieria-petrolera": {
+        "career": "Ingeniería Petrolera",
+        "file": "ingenieria-petrolera.jpg",
+        "source": "https://www.pexels.com/photo/factory-by-river-24560459/",
+        "photographer": "Nothing Ahead",
+        "photographer_url": "https://www.pexels.com/@ian-panelo",
+        "provider": "Pexels"
+    },
+    "ingenieria-petroquimica": {
+        "career": "Ingeniería Petroquímica",
+        "file": "ingenieria-petroquimica.jpg",
+        "source": "https://www.pexels.com/photo/industrial-refinery-on-mountainous-coastline-38602129/",
+        "photographer": "Nothing Ahead",
+        "photographer_url": "https://www.pexels.com/@ian-panelo",
+        "provider": "Pexels"
+    },
+    "ingenieria-de-sistemas": {
+        "career": "Ingeniería de Sistemas",
+        "file": "ingenieria-de-sistemas.jpg",
+        "source": "https://www.pexels.com/photo/students-working-on-computers-5539293/",
+        "photographer": "Thành Đỗ",
+        "photographer_url": "https://www.pexels.com/@dothanhyb",
+        "provider": "Pexels"
+    },
+    "ingenieria-de-software": {
+        "career": "Ingeniería de Software",
+        "file": "ingenieria-de-software.jpg",
+        "source": "https://www.pexels.com/photo/group-of-focused-children-using-laptop-7869245/",
+        "photographer": "Vanessa Loring",
+        "photographer_url": "https://www.pexels.com/@vanessa-loring",
+        "provider": "Pexels"
+    },
+    "ingenieria-informatica": {
+        "career": "Ingeniería Informática",
+        "file": "ingenieria-informatica.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "sistemas-informaticos": {
+        "career": "Sistemas Informáticos",
+        "file": "sistemas-informaticos.jpg",
+        "source": "https://www.pexels.com/photo/engineers-in-workshop-3861960/",
+        "photographer": "ThisIsEngineering",
+        "photographer_url": "https://www.pexels.com/@thisisengineering",
+        "provider": "Pexels"
+    },
+    "telecomunicaciones": {
+        "career": "Telecomunicaciones",
+        "file": "telecomunicaciones.jpg",
+        "source": "https://www.pexels.com/photo/girls-using-computers-in-school-5530520/",
+        "photographer": "Thành Đỗ",
+        "photographer_url": "https://www.pexels.com/@dothanhyb",
+        "provider": "Pexels"
+    },
+    "ingenieria-de-sonido": {
+        "career": "Ingeniería de Sonido",
+        "file": "ingenieria-de-sonido.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    },
+    "produccion-e-ingenieria-de-sonido": {
+        "career": "Producción e Ingeniería de Sonido",
+        "file": "produccion-e-ingenieria-de-sonido.jpg",
+        "source": "https://www.pexels.com/photo/back-view-of-a-woman-sitting-in-the-music-studio-5657673/",
+        "photographer": "cottonbro studio",
+        "photographer_url": "https://www.pexels.com/@cottonbro",
+        "provider": "Pexels"
+    },
+    "ingenieria-geologica": {
+        "career": "Ingeniería Geológica",
+        "file": "ingenieria-geologica.jpg",
+        "source": "https://www.pexels.com/photo/man-standing-in-the-entrance-to-a-stalactite-cave-4588593/",
+        "photographer": "ArtHouse Studio",
+        "photographer_url": "https://www.pexels.com/@arthousestudio",
+        "provider": "Pexels"
+    },
+    "ingenieria-metalurgica": {
+        "career": "Ingeniería Metalúrgica",
+        "file": "ingenieria-metalurgica.jpg",
+        "source": "https://www.pexels.com/photo/molten-gold-in-crucible-at-bangkok-foundry-30836332/",
+        "photographer": "Panta Singha",
+        "photographer_url": "https://www.pexels.com/@panta-singha-796618282",
+        "provider": "Pexels"
+    },
+    "ingenieria-quimica": {
+        "career": "Ingeniería Química",
+        "file": "ingenieria-quimica.jpg",
+        "source": "https://www.pexels.com/photo/liquid-in-flask-on-table-18692575/",
+        "photographer": "Mehul Patel",
+        "photographer_url": "https://www.pexels.com/@mehul-patel-829985",
+        "provider": "Pexels"
+    },
+    "quimica": {
+        "career": "Química",
+        "file": "quimica.jpg",
+        "source": "https://www.pexels.com/photo/glassware-with-colorful-liquid-substances-on-a-lab-desk-8540819/",
+        "photographer": "https://kaboompics.com/",
+        "photographer_url": "https://www.pexels.com/@karola-g",
+        "provider": "Pexels"
+    },
+    "quimica-industrial": {
+        "career": "Química Industrial",
+        "file": "quimica-industrial.jpg",
+        "source": "https://www.pexels.com/photo/close-up-photo-of-testubes-5428256/",
+        "photographer": "Tima Miroshnichenko",
+        "photographer_url": "https://www.pexels.com/@tima-miroshnichenko",
+        "provider": "Pexels"
+    },
+    "laboratorio-dental": {
+        "career": "Laboratorio Dental",
+        "file": "laboratorio-dental.jpg",
+        "source": "https://www.pexels.com/photo/a-person-holding-a-teeth-model-and-a-dental-scaler-4269698/",
+        "photographer": "Cedric Fauntleroy",
+        "photographer_url": "https://www.pexels.com/@cedric-fauntleroy",
+        "provider": "Pexels"
+    },
+    "odontologia": {
+        "career": "Odontología",
+        "file": "odontologia.jpg",
+        "source": "https://www.pexels.com/photo/a-person-wearing-green-gloves-holding-a-dental-mold-6627332/",
+        "photographer": "https://kaboompics.com/",
+        "photographer_url": "https://www.pexels.com/@karola-g",
+        "provider": "Pexels"
+    },
+    "linguistica-e-idiomas": {
+        "career": "Lingüística e Idiomas",
+        "file": "linguistica-e-idiomas.jpg",
+        "source": "https://www.pexels.com/photo/university-students-in-lecture-hall-with-books-31367511/",
+        "photographer": "Yusuf Çelik",
+        "photographer_url": "https://www.pexels.com/@zandatsu",
+        "provider": "Pexels"
+    },
+    "marketing-y-publicidad": {
+        "career": "Marketing y Publicidad",
+        "file": "marketing-y-publicidad.jpg",
+        "source": "https://www.pexels.com/photo/man-making-presentation-in-office-9034719/",
+        "photographer": "RDNE Stock project",
+        "photographer_url": "https://www.pexels.com/@rdne",
+        "provider": "Pexels"
+    },
+    "mecanica-automotriz": {
+        "career": "Mecánica Automotriz",
+        "file": "mecanica-automotriz.jpg",
+        "source": "https://www.pexels.com/photo/man-in-black-crew-neck-t-shirt-fixing-a-car-8478259/",
+        "photographer": "Sergey  Meshkov",
+        "photographer_url": "https://www.pexels.com/@19x14",
+        "provider": "Pexels"
+    },
+    "medicina-veterinaria-y-zootecnia": {
+        "career": "Medicina Veterinaria y Zootecnia",
+        "file": "medicina-veterinaria-y-zootecnia.jpg",
+        "source": "https://www.pexels.com/photo/aspiring-nurse-students-in-laboratory-setting-32213307/",
+        "photographer": "Yusuf Çelik",
+        "photographer_url": "https://www.pexels.com/@zandatsu",
+        "provider": "Pexels"
+    },
+    "modelaje-profesional": {
+        "career": "Modelaje Profesional",
+        "file": "modelaje-profesional.jpg",
+        "source": "https://www.pexels.com/photo/woman-in-tube-top-and-green-pants-with-glittery-eyebrows-and-lips-6833756/",
+        "photographer": "Mikhail Nilov",
+        "photographer_url": "https://www.pexels.com/@mikhail-nilov",
+        "provider": "Pexels"
+    },
+    "nutricion-y-dietetica": {
+        "career": "Nutrición y Dietética",
+        "file": "nutricion-y-dietetica.jpg",
+        "source": "https://www.pexels.com/photo/nutritionist-holding-broccoli-in-office-15319047/",
+        "photographer": "beyzahzah",
+        "photographer_url": "https://www.pexels.com/@beyzahzah-89810429",
+        "provider": "Pexels"
+    },
+    "optometria": {
+        "career": "Optometría",
+        "file": "optometria.jpg",
+        "source": "https://www.pexels.com/photo/a-doctor-checking-a-girl-s-eye-5996762/",
+        "photographer": "Pavel Danilyuk",
+        "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
+        "provider": "Pexels"
+    },
+    "psicologia": {
+        "career": "Psicología",
+        "file": "psicologia.jpg",
+        "source": "https://www.pexels.com/photo/woman-in-red-sweater-sitting-on-black-chair-9064679/",
+        "photographer": "RDNE Stock project",
+        "photographer_url": "https://www.pexels.com/@rdne",
+        "provider": "Pexels"
+    },
+    "quimica-farmaceutica": {
+        "career": "Química Farmacéutica",
+        "file": "quimica-farmaceutica.jpg",
+        "source": "https://www.pexels.com/photo/close-up-of-glass-bottles-in-a-laboratory-9259962/",
+        "photographer": "Jess Loiterton",
+        "photographer_url": "https://www.pexels.com/@jess-vide",
+        "provider": "Pexels"
+    },
+    "secretariado-ejecutivo": {
+        "career": "Secretariado Ejecutivo",
+        "file": "secretariado-ejecutivo.jpg",
+        "source": "https://www.pexels.com/photo/focused-diverse-coworkers-using-laptop-in-office-corridor-4173357/",
+        "photographer": "Gustavo Fring",
+        "photographer_url": "https://www.pexels.com/@gustavo-fring",
+        "provider": "Pexels"
+    },
+    "sociologia": {
+        "career": "Sociología",
+        "file": "sociologia.jpg",
+        "source": "https://www.pexels.com/photo/two-men-wearing-white-volunteer-t-shirt-6647027/",
+        "photographer": "RDNE Stock project",
+        "photographer_url": "https://www.pexels.com/@rdne",
+        "provider": "Pexels"
+    },
+    "trabajo-social": {
+        "career": "Trabajo Social",
+        "file": "trabajo-social.jpg",
+        "source": "https://www.pexels.com/photo/a-group-of-volunteers-sorting-clothes-into-containers-6994891/",
+        "photographer": "Julia M Cameron",
+        "photographer_url": "https://www.pexels.com/@julia-m-cameron",
+        "provider": "Pexels"
+    },
+    "teatro": {
+        "career": "Teatro",
+        "file": "teatro.jpg",
+        "source": "https://www.pexels.com/photo/teatro-colon-grand-interior-in-buenos-aires-33126401/",
+        "photographer": "Valentina  Rodriguez",
+        "photographer_url": "https://www.pexels.com/@mavarodi",
+        "provider": "Pexels"
+    },
+    "teologia": {
+        "career": "Teología",
+        "file": "teologia.jpg",
+        "source": "https://www.pexels.com/photo/person-holding-a-bible-1771219/",
+        "photographer": "Luis Quintero",
+        "photographer_url": "https://www.pexels.com/@jibarofoto",
+        "provider": "Pexels"
+    },
+    "topografia-y-geodesia": {
+        "career": "Topografía y Geodesia",
+        "file": "topografia-y-geodesia.jpg",
+        "source": "https://www.pexels.com/photo/construction-worker-using-survey-equipment-outdoors-30379883/",
+        "photographer": "Mukhtar Shuaib Mukhtar",
+        "photographer_url": "https://www.pexels.com/@akoonie",
+        "provider": "Pexels"
+    },
+    "turismo": {
+        "career": "Turismo",
+        "file": "turismo.jpg",
+        "source": "https://www.pexels.com/photo/brown-wall-with-hanging-lights-7821349/",
+        "photographer": "Mikhail Nilov",
+        "photographer_url": "https://www.pexels.com/@mikhail-nilov",
+        "provider": "Pexels"
+    },
+    "veterinaria-y-zootecnia": {
+        "career": "Veterinaria y Zootecnia",
+        "file": "veterinaria-y-zootecnia.jpg",
+        "source": "https://www.pexels.com/photo/a-woman-petting-her-dog-held-by-the-vet-22504402/",
+        "photographer": "DCC Pets",
+        "photographer_url": "https://www.pexels.com/@dcc-pets-1225360955",
+        "provider": "Pexels"
+    },
+    "ingenieria-civil": {
+        "career": "Ingeniería Civil",
+        "file": "ingenieria-civil.jpg",
+        "source": "Imagen proporcionada por el propietario del proyecto",
+        "provider": "Archivo local"
+    }
+}

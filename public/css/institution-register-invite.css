@@ -1,0 +1,26 @@
+.register-invite .invite-actions .primary {
+    background: #050505;
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 9px 24px rgba(0, 0, 0, 0.24);
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.register-invite .invite-actions .primary:hover {
+    background: #202020;
+    transform: translateY(-2px);
+}
+
+.register-invite .invite-icon {
+    width: 82px;
+    height: 82px;
+    border-radius: 14px;
+    background: #ffffff;
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.2);
+}
+
+.register-invite .invite-icon svg {
+    display: block;
+    width: 68px;
+    height: 68px;
+}

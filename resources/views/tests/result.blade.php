@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mi resultado vocacional | OrientaBo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('css/home.css') }}"><link rel="stylesheet" href="{{ asset('css/vocational-test.css') }}"><link rel="stylesheet" href="{{ asset('css/complete-test.css') }}"><link rel="stylesheet" href="{{ asset('css/vocational-result-theme.css') }}">
+</head>
+@php($letters = str_split($result->profile_code))
+<body class="test-page result-page">
+<header class="test-header no-print"><div class="test-container"><a href="{{ route('home') }}" class="logo"><span class="logo-icon">⌁</span><span>Orienta<b>Bolivia</b></span></a><a class="exit-test" href="{{ route('home') }}">Volver al menú principal <span aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M4 10.8 12 4l8 6.8V20h-5v-5H9v5H4v-9.2Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></span></a></div></header>
+<main class="result-report">
+    <section class="report-cover"><div><span class="test-kicker">INFORME VOCACIONAL PERSONAL</span><h1>{{ auth()->user()->name }}, tu perfil combina <em>{{ $profiles[$letters[0]]['name'] }}</em>, {{ $profiles[$letters[1]]['name'] }} y {{ $profiles[$letters[2]]['name'] }}.</h1><p>Este resultado reúne los intereses que más destacaron en tus respuestas.</p></div><div class="code-seal"><small>CÓDIGO VOCACIONAL</small><strong>{{ $result->profile_code }}</strong><span>{{ collect($letters)->map(fn($letter) => $profiles[$letter]['name'])->join(' · ') }}</span></div></section>
+    <section class="report-grid"><article class="report-card profile-summary"><span>LECTURA DE TU PERFIL</span><h2>{{ $profiles[$letters[0]]['phrase'] }}</h2><p>{{ $result->interpretation }}</p><div class="strength-list">@foreach(collect($letters)->flatMap(fn($letter) => $profiles[$letter]['strengths'])->unique()->take(6) as $strength)<span>✓ {{ $strength }}</span>@endforeach</div></article><article class="report-card"><span>MAPA DE INTERESES</span><div class="result-bars">@foreach(collect($result->scores)->sortDesc() as $letter => $score)<div class="score-row"><div><b>{{ $profiles[$letter]['name'] }}</b><span>{{ $score }}/15</span></div><i><span style="width:{{ round(($score/15)*100) }}%"></span></i></div>@endforeach</div></article></section>
+    <section class="career-results"><div class="section-heading"><span>CINCO CAMINOS PARA EXPLORAR</span><h2>Carreras relacionadas con tu combinación de intereses</h2><p>No es una lista cerrada: úsala como punto de partida para comparar contenidos, instituciones y formas de trabajo.</p></div><div class="result-careers">@forelse($careers as $index => $career)<article><span>0{{ $index + 1 }}</span><div><small>{{ $career->academicArea?->name ?? 'Área profesional' }}</small><h3>{{ $career->name }}</h3><p>{{ Str::limit($career->summary, 180) }}</p><b>Coincide con {{ $profiles[$career->riasec_primary]['name'] ?? 'tu perfil' }}{{ $career->riasec_secondary ? ' y '.($profiles[$career->riasec_secondary]['name'] ?? '') : '' }}</b></div><a class="no-print" href="{{ route('careers.show', $career) }}">Conocer carrera →</a></article>@empty<p>Aún estamos preparando recomendaciones asociadas a tu perfil.</p>@endforelse</div></section>
+    <section class="action-plan"><span>PRÓXIMOS PASOS</span><h2>Convierte el resultado en una decisión informada</h2><div><p><b>1. Explora</b> Revisa las cinco carreras y anota cuáles despiertan más curiosidad.</p><p><b>2. Compara</b> Consulta duración, contenidos e instituciones donde podrías estudiar.</p><p><b>3. Contrasta</b> Conversa con estudiantes o profesionales y conoce su trabajo real.</p></div></section>
+    <div class="report-note"><b>Recuerda:</b> este instrumento identifica intereses declarados; no mide inteligencia ni determina una única profesión. Tus habilidades, valores, situación personal y experiencias también forman parte de la decisión.</div>
+    <div class="result-actions no-print"><a class="back-button" href="{{ route('test.complete') }}">↻ Realizar nuevamente</a><a class="next-button" href="{{ route('test.results.pdf', $result) }}">Descargar informe en PDF <span>↓</span></a></div>
+    <footer class="print-footer">OrientaBo · Informe {{ $result->id }} · {{ $result->created_at->format('d/m/Y') }} · Test versión {{ $result->test_version }}</footer>
+</main>
+</body>
+</html>

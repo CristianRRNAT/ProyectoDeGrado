@@ -1,0 +1,198 @@
+.pathway-feature {
+    display: grid;
+    grid-template-columns: 0.9fr 1.1fr;
+    gap: 42px;
+    min-height: 575px;
+    margin-bottom: 70px;
+    padding: 62px 48px;
+    overflow: hidden;
+    border-radius: 24px;
+    background: #202230;
+    color: #ffffff;
+}
+
+.pathway-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pathway-copy h2 {
+    max-width: 470px;
+    margin: 0 0 12px;
+    font: 800 clamp(31px, 3.2vw, 46px)/1.08 Manrope, sans-serif;
+    letter-spacing: -1.7px;
+}
+
+.pathway-copy > p {
+    max-width: 530px;
+    margin: 0;
+    color: #d2d5e1;
+    font-size: 14px;
+    line-height: 1.75;
+}
+
+.pathway-links {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px 22px;
+    margin: 34px 0 31px;
+}
+
+.pathway-links a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 1.35;
+}
+
+.pathway-links a:hover b {
+    color: #7de1c0;
+}
+
+.pathway-icon {
+    display: grid;
+    flex: 0 0 29px;
+    width: 29px;
+    height: 29px;
+    place-items: center;
+    border-radius: 50%;
+}
+
+.pathway-icon svg {
+    width: 17px;
+    height: 17px;
+}
+
+.pathway-icon.violet { background: #ded5ff; color: #5a32bb; }
+.pathway-icon.mint { background: #c9f1df; color: #176a54; }
+.pathway-icon.amber { background: #ffe4ac; color: #8b5a00; }
+.pathway-icon.blue { background: #ccecff; color: #17638e; }
+
+.pathway-button {
+    display: grid;
+    width: 205px;
+    min-height: 44px;
+    place-items: center;
+    border-radius: 8px;
+    background: #ffffff;
+    color: #171923;
+    font-size: 12px;
+    font-weight: 800;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.pathway-button:hover {
+    background: #eef1f5;
+    transform: translateY(-2px);
+}
+
+.pathway-kicker {
+    margin-top: 10px;
+    color: #c6cad7;
+    font-size: 9px;
+    font-weight: 700;
+    letter-spacing: 1.25px;
+}
+
+.pathway-mosaic {
+    display: block;
+    min-height: 440px;
+    align-self: center;
+    overflow: hidden;
+    border-radius: 14px;
+}
+
+.pathway-mosaic > img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    min-height: 440px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.mosaic-panel {
+    overflow: hidden;
+    border-radius: 14px;
+    background-position: center;
+    background-size: cover;
+}
+
+.mosaic-careers {
+    grid-row: 1 / 3;
+    background-color: #55bdea;
+    background-image: linear-gradient(145deg, rgba(53, 192, 224, 0.28), rgba(105, 44, 229, 0.22)), url('/images/home/career-paths-banner.png');
+}
+
+.mosaic-vocation {
+    grid-column: 2 / 4;
+    background-image: linear-gradient(90deg, rgba(238, 240, 247, 0.08), rgba(238, 240, 247, 0.24)), url('/images/Test Vocacional.jpg');
+    background-position: center 38%;
+}
+
+.mosaic-institutions {
+    background-image: linear-gradient(rgba(69, 32, 118, 0.12), rgba(69, 32, 118, 0.12)), url('/images/Portada Instituciones.jpg');
+}
+
+.mosaic-opportunities {
+    display: grid;
+    place-items: center;
+    background: #ae75ed;
+    color: #ffffff;
+}
+
+.mosaic-opportunities svg {
+    width: 78%;
+    filter: drop-shadow(0 13px 16px rgba(51, 19, 96, 0.25));
+}
+
+@media (max-width: 950px) {
+    .pathway-feature {
+        grid-template-columns: 1fr;
+    }
+
+    .pathway-mosaic {
+        min-height: 390px;
+    }
+}
+
+@media (max-width: 620px) {
+    .pathway-feature {
+        gap: 38px;
+        min-height: 0;
+        padding: 38px 22px;
+        border-radius: 17px;
+    }
+
+    .pathway-links {
+        grid-template-columns: 1fr;
+    }
+
+    .pathway-button {
+        width: 100%;
+    }
+
+    .pathway-mosaic {
+        min-height: 0;
+    }
+
+    .pathway-mosaic > img {
+        min-height: 0;
+        aspect-ratio: 1.48 / 1;
+    }
+
+    .mosaic-careers {
+        grid-row: 1;
+    }
+
+    .mosaic-vocation {
+        grid-column: 2;
+    }
+
+    .mosaic-institutions {
+        grid-column: 1;
+    }
+}

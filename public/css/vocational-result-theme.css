@@ -1,0 +1,40 @@
+.report-cover {
+    background: #111111;
+}
+
+.report-cover > .code-seal {
+    background: #ffffff;
+    border-color: #ffffff;
+    box-shadow: 0 16px 35px rgba(0, 0, 0, 0.28);
+}
+
+.report-cover > .code-seal small,
+.report-cover > .code-seal span {
+    color: #52605c;
+}
+
+.report-cover > .code-seal strong {
+    color: #15956e;
+}
+
+.result-page .result-actions .next-button {
+    background: #111111;
+    color: #ffffff;
+}
+
+.result-page .result-actions .next-button:hover {
+    background: #252525;
+}
+
+.result-page .exit-test span svg {
+    width: 15px;
+    height: 15px;
+}
+
+@media print {
+    .report-cover,
+    .report-cover > .code-seal {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}

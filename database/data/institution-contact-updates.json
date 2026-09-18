@@ -1,0 +1,884 @@
+[
+    {
+        "website": "https://www.facebook.com/anbahernandosiles",
+        "phone": "2442141",
+        "address": "Calle Rosendo Gutiérrez N.º 323, zona Sopocachi",
+        "evidence": "https://www.minedu.gob.bo/files/documentos-normativos/VESFP/2024/reglamentos/GUIA-INSTITUTOS-2024-OCTUBRE.pdf",
+        "link_evidence": "https://laoctavabo.com/wp-content/uploads/2020/05/Larga-Noche-de-Museos-virtual-2020_actualizado.pdf",
+        "slug": "academia-nacional-bellas-artes-hernando-siles",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.itibrasilbolivia.org/",
+        "phone": "68184558",
+        "address": "Avenida Panamericana, ex fábrica de vidrio N.º 1000, El Alto",
+        "evidence": "https://www.itibrasilbolivia.org/",
+        "slug": "centro-formacion-profesional-brasil-bolivia",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "60652811",
+        "website": "https://mail.colmil.mil.bo/contacto.html",
+        "evidence": "https://mail.colmil.mil.bo/contacto.html",
+        "slug": "colegio-militar-del-ejercito-gualberto-villarroel",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://coplumu.edu.bo/",
+        "address": "Calle Reyes Ortiz N.º 56",
+        "evidence": "https://coplumu.edu.bo/",
+        "slug": "conservatorio-plurinacional-musica",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-escuela-industrial-superior-pedro-domingo-murillo/ist/1650/",
+        "phone": "22305533 / 22306553",
+        "address": "Av. Chacaltaya N.º 1001",
+        "website": "https://www.facebook.com/infoeispdm/",
+        "slug": "escuela-industrial-superior-pedro-domingo-murillo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "2432266 / 71535093",
+        "website": "https://www.emi.edu.bo/",
+        "evidence": "https://www.emi.edu.bo/",
+        "slug": "escuela-militar-de-ingenieria",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": null,
+        "review_note": "Página propia pendiente de confirmar; el enlace anterior era la portada del Ministerio.",
+        "slug": "esfm-simon-rodriguez-cochabamba",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.incos3.edu.bo/",
+        "phone": "4390361 / 4262954",
+        "address": "Av. Blanco Galindo km 12, final Cincinato Prado",
+        "evidence": "https://www.incos3.edu.bo/contacto/",
+        "slug": "incos",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://laredo.edu.bo/",
+        "phone": "4255775 / 4255963",
+        "address": "Avenida Ramón Rivero N.º 3050 esquina Oquendo",
+        "evidence": "https://laredo.edu.bo/nosotros/",
+        "slug": "instituto-educacion-integral-eduardo-laredo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "67427563",
+        "evidence": "https://www.fundacionculturalbcb.gob.bo/documentos/artistas-emergentes/cbba/artistas_emergentes_cbba_2023.pdf",
+        "slug": "instituto-formacion-artistica-raul-g-prada",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://iptk.org.bo/",
+        "phone": "6462447",
+        "address": "Calle Nataniel Aguirre N.º 650",
+        "evidence": "https://www.coordinadoradelamujer.org.bo/web/index.php/afiliadas/4",
+        "slug": "instituto-politécnico-tomas-katari",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-superior-daniel-campos-insco/ist/1382/",
+        "phone": "6933899",
+        "address": "Calle Colón y Juan de Dios Maldonado s/n",
+        "website": "https://www.facebook.com/Instituto-T%C3%A9cnico-Superior-Daniel-Campos-INSCO-332394827449285/",
+        "slug": "instituto-superior-comercio-daniel-campos",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://ifamarialuisaluzio.edu.bo/",
+        "phone": "5252705",
+        "address": "Calle La Plata N.º 5867 entre Junín y Ayacucho",
+        "evidence": "https://ifamarialuisaluzio.edu.bo/planes/1701703088LISTAS%20TURNO%20VESPERTINO.pdf",
+        "slug": "instituto-superior-musica-maria-luisa-luzio",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-superior-centenario/ist/1355/",
+        "address": "Calle Max Fernández entre Perú s/n",
+        "website": "https://www.facebook.com/itsc.villazon/",
+        "city": "Villazón",
+        "slug": "instituto-tecnico-centenario",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.facebook.com/cetbeni/",
+        "phone": "60347696 / 34629882",
+        "address": "Av. Bolívar casi esquina 9 de Abril N.º 250",
+        "evidence": "https://ftb.formaciontecnicabolivia.org/institutos/instituto-tecnico-cet-beni",
+        "slug": "instituto-tecnico-cet-beni",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.iseclp.edu.bo/",
+        "phone": "63232875",
+        "address": "Calle Yanacocha, a una cuadra de la esquina de la calle Catacora",
+        "evidence": "https://www.itclp.com/index",
+        "slug": "instituto-tecnico-comercial-la-paz",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "75240502",
+        "address": "Barrio 25 de Marzo, Av. Verdolago esquina Av. Sonnenschein s/n",
+        "website": "https://www.itcriberalta.edu.bo/",
+        "evidence": "https://www.itcriberalta.edu.bo/",
+        "slug": "instituto-tecnico-computacion-riberalta",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-de-educacion-comercial-americano-iteca/ist/1624/",
+        "phone": "22491444 / 71530276 / 77779166",
+        "address": "Calle Landaeta N.º 423, zona San Pedro, interior del Colegio Instituto Americano",
+        "website": "https://www.iteca.edu.bo/",
+        "slug": "instituto-tecnico-educacion-comercial-americano",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.facebook.com/Instituto-tecnico-El-Mapajo-308333346007842/",
+        "address": "Barrio Paraíso, calle Flor de Patujú s/n",
+        "evidence": "https://ftb.formaciontecnicabolivia.org/institutos/centro-de-formacion-tecnico-el-mapajo",
+        "slug": "instituto-tecnico-el-mapajo-pando",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-jesus-maria-i/ist/1440/",
+        "phone": "5252401 / 5252400",
+        "address": "Calle Oblitas N.º 364 entre Pagador y Potosí",
+        "website": "https://www.facebook.com/IntJem/",
+        "slug": "instituto-tecnico-jesus-maria-i",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-maria-inmaculada/ist/1534/",
+        "phone": "4358110",
+        "address": "Av. Capitán Víctor Ustariz km 10, camino antiguo a Quillacollo",
+        "slug": "instituto-tecnico-maria-inmaculada",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://incosdiurno.edu.bo/",
+        "phone": "4258041",
+        "address": "Av. Ayacucho N.º S-0415 esquina Jordán",
+        "evidence": "https://incosdiurno.edu.bo/contacto/",
+        "slug": "instituto-tecnico-nacional-de-comercio-federico-alvarez-plata",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-pio-xii/ist/1388/",
+        "phone": "25820321",
+        "address": "Plaza 6 de Agosto, Colegio Llallagua",
+        "website": "https://www.facebook.com/ITELLALLAGUA/",
+        "slug": "instituto-tecnico-pio-xii-llallagua",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-de-programas-de-salud-prosal/ist/673/",
+        "phone": "69003731",
+        "address": "Calle Arenales N.º 591, a dos cuadras de la plaza Ñuflo de Chávez",
+        "website": "https://www.facebook.com/Institutoprosal/",
+        "slug": "instituto-tecnico-prosal",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-superior-cieba/ist/1434/",
+        "phone": "71889421",
+        "address": "Barrio Miraflores, calle A entre 10 y 11",
+        "website": "https://www.facebook.com/pages/category/Product-Service/Instituto-Tecnico-Superior-De-Enfermeria-CIEBA-896749163832994/",
+        "slug": "instituto-tecnico-superior-cieba",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://esae.edu.bo/",
+        "phone": "4569265",
+        "evidence": "https://esae.edu.bo/contacto/",
+        "slug": "instituto-tecnico-superior-de-comercio-y-administracion-esae",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.itsecsucre.edu.bo/",
+        "phone": "67615791",
+        "address": "Calle Manuel Melean N.º 151 esquina J. L. Martínez",
+        "evidence": "https://www.itsecsucre.edu.bo/",
+        "slug": "instituto-tecnico-superior-educacion-comercial-itsec-sucre",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-2-de-agosto-iscayachi/ist/1282/",
+        "phone": "72975420",
+        "address": "Comunidad de Iscayachi",
+        "website": "https://www.facebook.com/it2deagosto/",
+        "slug": "instituto-tecnologico-2-agosto-iscayachi",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://sites.google.com/view/tecnologicosajama/inicio",
+        "evidence": "https://sites.google.com/view/tecnologicosajama/inicio",
+        "phone": "71882663 / 68310503",
+        "address": "Localidad de Opoqueri, provincia Carangas",
+        "slug": "instituto-tecnologico-agroindustrial-sajama",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-agropecuario-canada-chimore/ist/1537/",
+        "phone": "4136212",
+        "address": "Senda Tres, municipio de Chimoré",
+        "website": "https://www.facebook.com/Instituto-Tecnol%C3%B3gico-Agropecuario-Canad%C3%A1-2036863129714460/",
+        "slug": "instituto-tecnologico-agropecuario-canada",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-agropecuario-industrial-tarata/ist/1501/",
+        "phone": "4578949",
+        "slug": "instituto-tecnologico-agropecuario-industrial-tarata",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.tap.edu.bo/",
+        "phone": "62098901",
+        "evidence": "https://www.tap.edu.bo/contactos",
+        "slug": "instituto-tecnologico-agropecuario-portachuelo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-alvaro-garcia-linera/ist/1486/",
+        "website": "https://www.facebook.com/Instituto-Tecnol%C3%B3gico-%C3%81lvaro-Garc%C3%ADa-Linera-389463685230157/",
+        "slug": "instituto-tecnologico-alvaro-garcia-linera",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-amor-misericordioso/ist/1543/",
+        "phone": "4365855",
+        "website": "https://www.facebook.com/instituto.tecnologico.cetam/",
+        "slug": "instituto-tecnologico-amor-misericordioso",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-apolo-ita/ist/1564/",
+        "phone": "72507249",
+        "website": "https://www.facebook.com/INSTITUTO.TECNOLOGICO.APOLO/",
+        "slug": "instituto-tecnologico-apolo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-aurora-rossells-de-fe-y-alegria/ist/1474/",
+        "phone": "46461522",
+        "address": "Calle Azurduy N.º 57",
+        "website": "https://www.facebook.com/pages/category/Education/Instituto-T%C3%A9cnico-Aurora-Rossells-613307465719091/",
+        "slug": "instituto-tecnologico-aurora-rossells",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://sites.google.com/view/miinstituto-itasm/school-resources",
+        "phone": "74323319",
+        "evidence": "https://linktr.ee/itasm_mizque",
+        "slug": "instituto-tecnologico-avelino-sinani-de-mizque",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.tecnologicobertonicoli.edu.bo/",
+        "phone": "60397968 / 71706078",
+        "address": "Zona Chimboco, dos cuadras al norte de la ESBAPOL",
+        "evidence": "https://www.tecnologicobertonicoli.edu.bo/",
+        "slug": "instituto-tecnologico-berto-nicoli",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://itboliviamar.edu.bo/itboliviamar/",
+        "phone": "22807276",
+        "evidence": "https://itboliviamar.edu.bo/itboliviamar/admisiones/",
+        "slug": "instituto-tecnologico-bolivia-mar",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.itbcelpaso.edu.bo/",
+        "evidence": "https://www.itbcelpaso.edu.bo/",
+        "phone": "79971046",
+        "address": "Av. Blanco Galindo km 10, entrando 3 km al norte por Av. Elías Meneses, zona El Paso",
+        "slug": "instituto-tecnologico-boliviano-canadiense-el-paso",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-los-cintis/ist/1459/",
+        "phone": "72976957",
+        "address": "Calle Cobija s/n, frente al Hospital San Juan de Dios",
+        "website": "https://www.facebook.com/Instituto-Tecnologico-Superior-Los-Cintis-817489241684895/",
+        "slug": "instituto-tecnologico-camargo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-caquiaviri/ist/1591/",
+        "phone": "72529820",
+        "address": "Aypa Yauruta, carretera nueva a Ilo km 85",
+        "slug": "instituto-tecnologico-caquiaviri",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.it-caranavi.org/",
+        "phone": "78820343 / 73020668",
+        "address": "Colonia Bajo Broncini, pasando el puente Manchego y el río Coroico",
+        "evidence": "https://www.it-caranavi.org/contactos",
+        "slug": "instituto-tecnologico-caravani",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "65784545 / 76438829",
+        "website": "https://www.institutocepro.edu.bo/",
+        "evidence": "https://www.institutocepro.edu.bo/",
+        "slug": "instituto-tecnologico-cepro",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-comandante-hugo-chavez-frias/ist/1492/",
+        "address": "Localidad de Isinuta",
+        "website": "https://www.facebook.com/Instituto-Tecnol%C3%B3gico-Comandante-Hugo-Chavez-Frias-378414432522207/",
+        "slug": "instituto-tecnologico-comandante-hugo-chavez-frias",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://tecsur.edu.bo/",
+        "phone": "69781846 / 4227019",
+        "address": "Av. San Martín Sud N.º S-930 entre Brasil y Montes, zona Sud Central",
+        "evidence": "https://tecsur.edu.bo/",
+        "slug": "instituto-tecnologico-del-sur-cochabamba",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.facebook.com/INTE.EMBOROZU/",
+        "phone": "46649221",
+        "address": "Comunidad de Emborozú, km 117 de la carretera a Bermejo",
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-emborozu/ist/1270/",
+        "slug": "instituto-tecnologico-emborozu",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-eustaquio-mendez/ist/1258/",
+        "phone": "68182362",
+        "website": "https://www.facebook.com/INST-TEC-Eustaquio-Mendez-115158826601642/",
+        "slug": "instituto-tecnologico-eustaquio-mendez",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-guerrilleros-de-independencia/ist/1489/",
+        "website": "https://www.facebook.com/Instituto-Tecnol%C3%B3gico-Guerrilleros-de-Independencia-1214022992079868/",
+        "slug": "instituto-tecnologico-guerrilleros-de-independencia",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.iaioruro.com/",
+        "address": "Av. 6 de Agosto esquina Campo Jordán",
+        "evidence": "https://www.iaioruro.com/inscripciones.html",
+        "phone": "5244492",
+        "phone_evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-i-a-i/ist/1447/",
+        "slug": "instituto-tecnologico-iai-oruro",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.infocalcbba.edu.bo/",
+        "phone": "4242660 / 71730090",
+        "evidence": "https://www.infocalcbba.edu.bo/contacto/",
+        "slug": "instituto-tecnologico-infocal",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-jacha-omasuyos/ist/1597/",
+        "phone": "69866648",
+        "website": "https://www.facebook.com/Tecnologicojachaomasuyos/",
+        "slug": "instituto-tecnologico-jacha-omasuyos",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-latinoamericano-tel-srl/ist/656/",
+        "phone": "75522837",
+        "address": "Calle Sucre entre Campero y Avaroa N.º 545",
+        "website": "https://www.tel.edu.bo/",
+        "slug": "instituto-tecnologico-latinoamericano-tel",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.tecnologicomariacristina.edu.bo/",
+        "phone": "4376870",
+        "address": "Av. Capitán Víctor Ustariz km 6½, zona Santa Rosa Central, acera sud",
+        "evidence": "https://www.tecnologicomariacristina.edu.bo/informacion/",
+        "slug": "instituto-tecnologico-maria-cristina",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.facebook.com/Instituto-Superior-Tecnologico-Agroindustrial-Monteagudo-547773618684995",
+        "phone": "76118239",
+        "address": "Calle 21 de Septiembre N.º 3",
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-monteagudo/ist/1456/",
+        "slug": "instituto-tecnologico-monteagudo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-nuestra-senora-del-pilar/ist/1507/",
+        "phone": "4476396",
+        "address": "Plaza Señor de Mayo, calle Tarhui, Ticti Norte",
+        "website": "https://www.facebook.com/ITP.Marista/",
+        "slug": "instituto-tecnologico-nuestra-senora-del-pilar",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.facebook.com/Instituto-Tecnol%C3%B3gico-OConnor-395446124217128/",
+        "phone": "72951176",
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-oconor/ist/1248/",
+        "slug": "instituto-tecnologico-oconnor",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-padre-antonio-berta/ist/1504/",
+        "phone": "4287844",
+        "address": "Zona Cruce Taquiña, Ciudad de los Niños",
+        "website": "https://www.tecnologicopadreantonioberta.edu.bo/",
+        "slug": "instituto-tecnologico-padre-antonio-berta",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.tecnologicoandresibanez.edu.bo/",
+        "address": "Av. Rosales, barrio Suárez Pompeyus, Plan 3000, lado de la EPI-3",
+        "evidence": "https://www.tecnologicoandresibanez.edu.bo/contactenos.php",
+        "slug": "instituto-tecnologico-popular-igualitario-andres-ibanez",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://itpm.edu.bo/",
+        "evidence": "https://itpm.edu.bo/contacto/",
+        "phone": "2810641",
+        "address": "Ciudad Satélite, Plan 482, Av. Arturo Ballivián, lado del Regimiento Policial N.º 3",
+        "city": "El Alto",
+        "slug": "instituto-tecnologico-puerto-de-mejillones",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://itsa.edu.bo/",
+        "phone": "67598222",
+        "address": "Av. Circunvalación entre Ismael Céspedes y Granado",
+        "evidence": "https://itsa.edu.bo/",
+        "slug": "instituto-tecnologico-sacaba",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-san-alberto/ist/1285/",
+        "phone": "76117609",
+        "address": "Comunidad de San Alberto",
+        "website": "https://www.facebook.com/IITTSanAlberto/",
+        "slug": "instituto-tecnologico-san-alberto",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "67374130",
+        "website": "https://www.institutosanandres.org/",
+        "evidence": "https://www.institutosanandres.org/",
+        "slug": "instituto-tecnologico-san-andres-tarija",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-superior-tecnologico-agroindustrial-san-pedro-de-totora/ist/1450/",
+        "phone": "72313108",
+        "website": "https://www.facebook.com/Instituto-Superior-Tecnol%C3%B3gico-Agroindustrial-San-Pedro-de-Totora-102686461225880/",
+        "slug": "instituto-tecnologico-san-pedro-totora",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.itsc.edu.bo/",
+        "phone": "33489901 / 74165292 / 74165293",
+        "address": "Av. Paragua esquina 3er Anillo Interno N.º 3415, zona Nor Este",
+        "evidence": "https://www.itsc.edu.bo/",
+        "slug": "instituto-tecnologico-santa-cruz",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-agroindustrial-aiquile-tecsa/ist/1498/",
+        "phone": "4343374",
+        "website": "https://www.facebook.com/TecsaAiquile/",
+        "slug": "instituto-tecnologico-superior-agroindustrial-aiquile",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-agropecuario-industrial-huaca-reta-itsa-h/ist/1471/",
+        "phone": "73467247",
+        "address": "Calle Bolívar s/n, salida a Monteagudo",
+        "website": "https://www.facebook.com/InstitutoTecnologicoAgropecuarioIndustrial/",
+        "slug": "instituto-tecnologico-superior-agropecuario-industrial-huacareta",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.itsariberalta.edu.bo/",
+        "phone": "69021318 / 3222931",
+        "evidence": "https://www.itsariberalta.edu.bo/",
+        "slug": "instituto-tecnologico-superior-amazonia-itsa",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-carracollo-itsca/ist/1437/",
+        "phone": "72313402",
+        "slug": "instituto-tecnologico-superior-caracollo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.iseclp.edu.bo/",
+        "phone": "63232875",
+        "address": "Calle Yanacocha, a una cuadra de la esquina de la calle Catacora",
+        "evidence": "https://www.iseclp.edu.bo/Doc/2026/PDF/CONVOCATORIA%20001.pdf",
+        "slug": "instituto-tecnologico-superior-isec-la-paz",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "68460455 / 74159524",
+        "address": "Distrito Marka Qaqachaca, Challapata",
+        "website": "https://itsmaq-web.netlify.app/",
+        "evidence": "https://itsmaq-web.netlify.app/",
+        "slug": "instituto-tecnologico-superior-marka-qaqachaca",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://nuevoamanecer.edu.bo/",
+        "phone": "68386036",
+        "evidence": "https://nuevoamanecer.edu.bo/",
+        "slug": "instituto-tecnologico-superior-nuevo-amanecer",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-potosi/ist/1379/",
+        "address": "Calle final H. Vásquez s/n, zona Cachirrancho",
+        "slug": "instituto-tecnologico-superior-potosi",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-santiago-de-huari/ist/1431/",
+        "phone": "71853782",
+        "website": "https://www.facebook.com/pages/category/Education/Instituto-Tecnologico-Superior-santiago-De-Huari-995079097231376/",
+        "slug": "instituto-tecnologico-superior-santiago-huari",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnico-superior-saucari-itssa/ist/1428/",
+        "phone": "77142586 / 77220360",
+        "address": "Av. del Estudiante, San Francisco y Comercio",
+        "website": "https://www.facebook.com/pages/category/College---University/ITSSA-Instituto-Tecnol%C3%B3gico-Superior-Saucari-217581155585033/",
+        "slug": "instituto-tecnologico-superior-saucari",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "6453697 / 76123189",
+        "address": "Luis Paz Arce N.º 202, Av. Hernando Siles esquina Parque Bolívar",
+        "website": "https://www.tecbasucre.com/",
+        "evidence": "https://www.tecbasucre.com/",
+        "slug": "instituto-tecnologico-superior-tecba-sucre",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "74234453 / 63660222",
+        "address": "Av. Ballivián s/n entre Avaroa y Ayacucho",
+        "website": "https://www.tecnologicouyuni.org/",
+        "evidence": "https://www.tecnologicouyuni.org/",
+        "slug": "instituto-tecnologico-superior-uyuni",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-tarija/ist/1264/",
+        "address": "Zona Lourdes, calle Camargo s/n",
+        "website": "https://www.facebook.com/Instituto-tecnol%C3%B3gico-tarija-828469704219446/",
+        "slug": "instituto-tecnologico-tarija",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://sites.google.com/view/institutotecnolgicotuni/inicio",
+        "phone": "71597412",
+        "address": "Camino a Layuri, Ruta F, comunidad Tuni",
+        "evidence": "https://sites.google.com/view/institutotecnolgicotuni/informaciones",
+        "slug": "instituto-tecnologico-tuni",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "46665631",
+        "address": "Calamuchita",
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-uriondo/ist/1276/",
+        "slug": "instituto-tecnologico-uriondo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "evidence": "https://formaciontecnicabolivia.org/instituto-tecnologico-superior-winay-marka/ist/1615/",
+        "phone": "70682188",
+        "website": "https://www.facebook.com/tecnologicowinaymarka/",
+        "city": "Huatajata",
+        "slug": "instituto-tecnologico-wiñay-marka",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.ity.edu.bo/",
+        "address": "Km 21,5 de la Ruta 9, carretera a Santa Cruz, comunidad Algarrobal",
+        "evidence": "https://www.ity.edu.bo/",
+        "phone": "46831518 / 75170999",
+        "slug": "instituto-tecnologico-yacuiba",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.facebook.com/115552573326597/",
+        "evidence": "https://www.schoolandcollegelistings.com/BO/Tarija/115552573326597/Instituto-Tecnologico%22Yunchara%22",
+        "slug": "instituto-tecnologico-yunchara",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://unibolquechua.edu.bo/",
+        "phone": "4136832 / 68581501 / 71490172",
+        "evidence": "https://unibolquechua.edu.bo/wp-content/uploads/2023/07/2.-REVISTA-MODULOS-PRODUCTIVOS.pdf",
+        "slug": "unibol-quechua-casimiro-huanca",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://uap.edu.bo/",
+        "phone": "71521170",
+        "address": "Av. Las Palmas, Campus Universitario",
+        "evidence": "https://diasis.uap.edu.bo/uploads/archivos/index.html",
+        "slug": "universidad-amazonica-de-pando",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.uabjb.edu.bo/",
+        "phone": "72815556",
+        "address": "Zona Central, Av. 6 de Agosto, edificio Antonio Vaca Díez N.º 61",
+        "evidence": "https://www.uabjb.edu.bo/index.php/admision-y-registros",
+        "slug": "universidad-autonoma-del-beni-jose-ballivian",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "3365533 / 3365544",
+        "website": "https://www.uagrm.edu.bo/",
+        "evidence": "https://www.uagrm.edu.bo/",
+        "slug": "universidad-autonoma-gabriel-rene-moreno",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.uajms.edu.bo/",
+        "phone": "6643110 / 6633912",
+        "address": "Av. Víctor Paz Estenssoro N.º 0149",
+        "evidence": "https://www.uajms.edu.bo/contactenos/",
+        "slug": "universidad-autonoma-juan-misael-saracho",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.uatf.edu.bo/",
+        "phone": "26227300 / 72377346",
+        "address": "Calle Serrudo s/n esquina Av. Cívica",
+        "evidence": "https://www.uatf.edu.bo/",
+        "slug": "universidad-autonoma-tomas-frias",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://lpz.ucb.edu.bo/",
+        "phone": "2782222 / 75700006 / 75200009",
+        "evidence": "https://lpz.ucb.edu.bo/contacto/",
+        "slug": "universidad-catolica-boliviana-san-pablo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://unicen.edu.bo/",
+        "phone": "44252987 / 75907032",
+        "address": "Calle Santiváñez y Junín N.º 240",
+        "evidence": "https://unicen.edu.bo/",
+        "slug": "universidad-central",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.ucebol.edu.bo/",
+        "phone": "33426311",
+        "address": "Av. Cristo Redentor, 6to anillo",
+        "evidence": "https://www.ucebol.edu.bo/contactos.aspx",
+        "slug": "universidad-cristiana-de-bolivia",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.udabol.edu.bo/",
+        "phone": "33180070",
+        "evidence": "https://virtual.udabol.edu.bo/login/forgot_password.php",
+        "slug": "universidad-de-aquino-bolivia",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://ueb.edu.bo/",
+        "phone": "62000255",
+        "address": "Av. 6to Anillo, frente al Hospital Grumedso",
+        "evidence": "https://ueb.edu.bo/inicio/",
+        "slug": "universidad-evangelica-boliviana",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://ulasalle.edu.bo/",
+        "phone": "2723598",
+        "address": "Av. Jorge Carrasco esquina Las Palmas N.º 450, Bolognia",
+        "evidence": "https://ulasalle.edu.bo/",
+        "slug": "universidad-la-salle-bolivia",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://loyola.edu.bo/",
+        "phone": "22783195",
+        "address": "Calle D. Michel, zona Bajo Seguencoma",
+        "evidence": "https://loyola.edu.bo/portal/contactos",
+        "slug": "universidad-loyola-la-paz",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "2612298",
+        "address": "Av. Villazón N.º 1995, Plaza del Bicentenario",
+        "website": "https://www.umsa.bo/",
+        "evidence": "https://www.umsa.bo/",
+        "slug": "universidad-mayor-de-san-andres",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "4525161",
+        "website": "https://www.umss.edu.bo/",
+        "evidence": "https://www.umss.edu.bo/",
+        "slug": "universidad-mayor-de-san-simon",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.uecologica.edu.bo/",
+        "phone": "3460232 / 3499199 / 75667474 / 69157811",
+        "address": "Campus Universitario, km 5½ de la carretera a Cotoca",
+        "evidence": "https://www.uecologica.edu.bo/",
+        "slug": "universidad-nacional-ecologica",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "25820222",
+        "address": "Calle Campero N.º 36",
+        "website": "https://unsxx.bo/",
+        "evidence": "https://unsxx.bo/",
+        "slug": "universidad-nacional-siglo-xx",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://unslp.edu.bo/",
+        "phone": "22422323",
+        "address": "Calle Presbítero Medina N.º 2412, Sopocachi",
+        "evidence": "https://unslp.edu.bo/es/nosotros/contactenos.html",
+        "slug": "universidad-nuestra-senora-de-la-paz",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "4486100",
+        "address": "Calle Túpac Amaru N.º 1816 esquina Paso del Inca",
+        "website": "https://www.upal.edu.bo/",
+        "evidence": "https://www.upal.edu.bo/",
+        "slug": "universidad-privada-abierta-latinoamericana-cochabamba",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "2165700 / 77201229",
+        "address": "Camino a Achocalla km 3,5",
+        "website": "https://www.upb.edu/campus/la-paz",
+        "evidence": "https://www.upb.edu/campus/la-paz",
+        "slug": "universidad-privada-boliviana",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "60431888",
+        "address": "Calle Potosí esquina Junín N.º 348",
+        "website": "https://www.unior.edu.bo/",
+        "evidence": "https://www.unior.edu.bo/",
+        "slug": "universidad-privada-de-oruro",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.univalle.edu/",
+        "phone": "4150100 / 4318800 / 79957127",
+        "address": "Campus Tiquipaya, Av. Guillermina Martínez",
+        "evidence": "https://alumni.univalle.edu/Alumni/Contactanos",
+        "slug": "universidad-privada-del-valle",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "33426600 / 72129166",
+        "address": "Avenida República del Japón N.º 250",
+        "website": "https://www.upds.edu.bo/",
+        "evidence": "https://www.upds.edu.bo/",
+        "slug": "universidad-privada-domingo-savio",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "2487700 / 71502211",
+        "address": "Calle Héroes del Acre esquina Landaeta N.º 1855",
+        "website": "https://unifranz.edu.bo/sedes/la-paz/",
+        "evidence": "https://unifranz.edu.bo/sedes/la-paz/",
+        "slug": "universidad-privada-franz-tamayo",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.upsa.edu.bo/",
+        "phone": "33464000",
+        "address": "Av. Paraguá y 4to Anillo",
+        "evidence": "https://mantenimiento.upsa.edu.bo/es/contactos-facultad-de-humanidades-y-comunicacion",
+        "slug": "universidad-privada-santa-cruz-de-la-sierra",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.upea.edu.bo/",
+        "phone": "22845800",
+        "address": "Av. Sucre A s/n, zona Villa Esperanza",
+        "evidence": "https://www.upea.edu.bo/?page_id=72",
+        "slug": "universidad-publica-de-el-alto",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "2305210 / 77227926",
+        "address": "Av. Chacaltaya N.º 1258, zona Achachicala, Plaza Don Bosco",
+        "website": "https://www.usalesiana.edu.bo/principal/es",
+        "evidence": "https://www.usalesiana.edu.bo/principal/es",
+        "slug": "universidad-salesiana-de-bolivia",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "6441541 / 6453308 / 6461787",
+        "address": "Calle Junín esquina Estudiantes",
+        "website": "https://usfx.bo/",
+        "evidence": "https://usfx.bo/",
+        "slug": "universidad-san-francisco-xavier-chuquisaca",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "69424173 / 69425211",
+        "address": "Av. Villazón N.º 22, km 1 carretera a Sacaba",
+        "website": "https://usip.edu.bo/",
+        "evidence": "https://usip.edu.bo/",
+        "slug": "universidad-simon-i-patino",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "25242215 / 25255543 / 25280609",
+        "address": "Av. 6 de Octubre N.º 5715 entre Cochabamba y Ayacucho",
+        "website": "https://www.uto.edu.bo/",
+        "evidence": "https://www.uto.edu.bo/",
+        "slug": "universidad-tecnica-de-oruro",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://unitepc.edu.bo/",
+        "phone": "4250549 / 72228283",
+        "address": "Campus Colonial, pasaje Fidelia Sánchez, Av. Heroínas y España",
+        "evidence": "https://unitepc.edu.bo/contactos/",
+        "slug": "universidad-tecnica-privada-cosmos",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "phone": "22180808 / 71227016",
+        "website": "https://utb.edu.bo/",
+        "evidence": "https://utb.edu.bo/",
+        "slug": "universidad-tecnologica-boliviana-la-paz",
+        "reviewed_on": "2026-09-11"
+    },
+    {
+        "website": "https://www.utepsa.edu/",
+        "phone": "33416130",
+        "address": "Av. Noel Kempff Mercado N.º 715",
+        "evidence": "https://www.utepsa.edu/cowork/",
+        "slug": "universidad-tecnologica-privada-santa-cruz",
+        "reviewed_on": "2026-09-11"
+    }
+]

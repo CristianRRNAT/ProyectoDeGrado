@@ -1,0 +1,23 @@
+.catalog-hero{position:relative;isolation:isolate;background-color:#092e26;background-image:linear-gradient(90deg,rgba(6,31,25,.88) 0%,rgba(6,31,25,.7) 27%,rgba(6,31,25,.28) 53%,rgba(6,31,25,.04) 78%),url('/images/home/career-paths-banner.png');background-repeat:no-repeat;background-position:center;background-size:cover}
+.catalog-hero:after{content:"";position:absolute;z-index:-1;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.02),rgba(4,25,20,.1));pointer-events:none}
+.catalog-hero>.container{position:relative;z-index:1}.catalog-hero>.container>p{max-width:650px;color:#d0dfda;text-shadow:0 1px 9px rgba(0,0,0,.35)}
+.catalog-hero h1{text-shadow:0 3px 22px rgba(0,0,0,.35)}
+@media(max-width:700px){.catalog-hero{background-position:61% center;background-image:linear-gradient(90deg,rgba(6,31,25,.83),rgba(6,31,25,.42)),url('/images/home/career-paths-banner.png')}}
+.catalog-hero{min-height:560px;padding:82px 0 70px;background-color:#050505;background-image:linear-gradient(90deg,#050505 0%,rgba(5,5,5,.96) 29%,rgba(5,5,5,.72) 51%,rgba(5,5,5,.2) 76%,rgba(5,5,5,.04) 100%),linear-gradient(0deg,#050505 0%,transparent 35%),url('/images/home/career-paths-banner.png')}
+.catalog-hero:after{background:linear-gradient(180deg,rgba(0,0,0,.04),rgba(0,0,0,.2))}
+.catalog-hero>.container{box-sizing:border-box;padding-left:clamp(45px,7vw,120px)}
+.catalog-hero>.container>p{color:#d6d6d6}
+.catalog-hero .catalog-search{display:block;width:min(540px,100%);max-width:none;margin-top:32px}
+.catalog-hero .catalog-search .search-input{height:56px;padding:0 20px;border:1px solid #333;border-radius:29px;background:#202020;color:#aaa;box-shadow:0 10px 28px rgba(0,0,0,.25)}
+.catalog-hero .catalog-search .search-input:focus-within{border-color:#777;background:#252525;box-shadow:0 0 0 3px rgba(255,255,255,.08),0 10px 28px rgba(0,0,0,.3)}
+.catalog-hero .catalog-search .search-input>span{display:grid;width:30px;height:30px;flex:0 0 30px;place-items:center;margin-right:5px;color:#ddd;font-size:22px;line-height:1}
+.catalog-hero .catalog-search input{height:100%;padding:0 8px;border:0;background:transparent;color:#fff;font-size:14px}
+.catalog-hero .catalog-search input::placeholder{color:#9d9d9d}
+.catalog-hero .catalog-search .button{display:none}
+@media(max-width:700px){.catalog-hero{min-height:520px;padding-top:66px;background-position:61% center;background-image:linear-gradient(90deg,rgba(5,5,5,.94),rgba(5,5,5,.58)),linear-gradient(0deg,#050505,transparent 48%),url('/images/home/career-paths-banner.png')}.catalog-hero>.container{padding-left:0}.catalog-hero .catalog-search{width:100%}}
+@media(min-width:701px){.catalog-hero>.container{width:calc(100% - 104px);max-width:none;padding-left:0}}
+.catalog-hero .catalog-search .search-input>span{cursor:pointer;transition:color .2s,transform .2s}
+.catalog-hero .catalog-search .search-input>span:hover,.catalog-hero .catalog-search .search-input>span:focus-visible{color:#71e2bd;transform:scale(1.08);outline:0}
+.catalog-hero{background-image:linear-gradient(90deg,rgba(5,5,5,.84) 0%,rgba(5,5,5,.72) 29%,rgba(5,5,5,.48) 52%,rgba(5,5,5,.14) 77%,rgba(5,5,5,.02) 100%),linear-gradient(0deg,rgba(5,5,5,.65) 0%,transparent 32%),url('/images/home/career-paths-banner.png')}
+@media(max-width:700px){.catalog-hero{background-image:linear-gradient(90deg,rgba(5,5,5,.84),rgba(5,5,5,.42)),linear-gradient(0deg,rgba(5,5,5,.58),transparent 45%),url('/images/home/career-paths-banner.png')}}
+@media(min-width:701px){.catalog-hero>.container{padding-left:clamp(46px,4.5vw,78px)}}
